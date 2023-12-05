@@ -2,6 +2,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMapMarkerAlt } from '@fortawesome/fontawesome-free-solid';
 import { entercom, tribalscale, overbond, ubix } from './history';
+import 'typeface-roboto';
 import './App.scss';
 
 function App() {
