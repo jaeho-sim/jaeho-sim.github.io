@@ -28,7 +28,7 @@
       "location": "Toronto",
       "date": "May 18 - Feb 19",
       "descriptions": [
-        "Participated in more than 5 different projects developing front-end and back-end web/IoT applications, by practicing Test-Driven Development",
+        "Participated in more than 5 different client-facing projects building both front-end and back-end web/IoT applications, by practicing Test-Driven Development",
         "Developed data API endpoints that are being used on multiple platforms, built with Node/Express",
         "Contributed to the development of an authentication API that is used on multiple platforms, built with Node/Express, Postgres and AWS Cognito",
         "Built and improved two Alexa Skills from the scratch using AWS Lambda, DynamoDB and Alexa SDK",
@@ -43,11 +43,10 @@
       "location": "Toronto",
       "date": "Jul 16 - Dec 17",
       "descriptions": [
-        "Contributed to the development of a web-based financial platform in a fast paced agile development environment using Ruby on Rails, jQuery and React",
+        "Contributed to the development of a web-based financial platform using Ruby on Rails, jQuery and React",
         "Created and maintained marketing website with the consideration of SEO and conversion funnel to generate MQLs",
         "Implemented Salesforce/Pardot into the website to leverage smoother transition between marketing and sales",
-        "Built custom coded email templates to send out newsletters to attract possible clients",
-        "Worked closely with the designer, project manager and other developers to build responsive UIs"
+        "Built custom coded email templates to send out newsletters to attract possible clients"
       ]
     },
     {
@@ -56,8 +55,8 @@
       "location": "Toronto",
       "date": "Oct 15 - Jun 16",
       "descriptions": [
-        "Developed and implemented web application platforms for clients from the scratch",
-        "Mainly involved in front-end work to create more than 50 pages in Angular, JSP and SASS",
+        "Developed web application platforms for clients from the scratch",
+        "Mainly involved in front-end work to create more than 50 pages in Angular 1, JSP and SASS",
         "Collaborated in building back-end implementations for database and computations using Spring and MySQL",
         "Designed and implemented to be compatible with different versions of mobile, tablets, and browsers"
       ]
