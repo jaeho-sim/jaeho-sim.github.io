@@ -133,14 +133,14 @@ li {
   }
   &:last-child {
     margin-bottom: 0;
-    .resume-content-item {
-      margin-bottom: 0;
-    }
   }
 }
 
 .resume-content-item {
   margin-bottom: 40px;
+  &:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .resume-date {
