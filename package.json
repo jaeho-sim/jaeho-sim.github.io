@@ -42,7 +42,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jaeho-sim.github.io/resume",
+  "homepage": "https://jaeho-sim.github.io/resume/",
   "devDependencies": {
     "sass": "^1.69.5",
     "gh-pages": "^6.1.0"

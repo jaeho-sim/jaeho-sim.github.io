@@ -20,10 +20,11 @@ h1 {
 
 h2 {
   color: $blue-font;
-  margin-bottom: 25px;
+  margin-bottom: 30px;
   font-size: 14pt;
   font-weight: 500;
   -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
 }
 
 h3 {
@@ -37,6 +38,7 @@ h4 {
   color: $grey-dark-font;
   font-style: italic;
   -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
 }
 
 p {
@@ -45,6 +47,7 @@ p {
   margin-bottom: 5px;
   color: $grey-font;
   -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
 }
 
 ul {
@@ -54,6 +57,7 @@ ul {
 li {
   color: $grey-font;
   -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
 }
 
 .resume-page {
@@ -86,6 +90,7 @@ li {
   // margin-left: 33px;
   color: $grey-font;
   -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
 }
 
 .resume-contact {
@@ -172,7 +177,9 @@ li {
     padding-bottom: 0;
   }
   .print-margin {
-    padding-top: 65px;
+    // padding-top: 60px;
+    page-break-before: always;
+    padding-top: 50px;
   }
   // h2 {
   //   page-break-after: avoid;

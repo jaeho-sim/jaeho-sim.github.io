@@ -9,16 +9,19 @@ function App() {
   const renderHistory = () => {
     const historyList = history.careers.map(({ company, title, location, date, descriptions }) => (
       // <div className="print-margin"></div>
-      <div className="resume-content-item" key={company}>
-        <h3>{company}</h3>
-        <h4>{title}</h4>
-        <p className="resume-date">{date} <span><FontAwesomeIcon className="location-icon" icon={faMapMarkerAlt} />{location}</span></p>
-        <ul>
-          {descriptions.map((desc, i) => {
-            return <li key={company+i}><p>{desc}</p></li>
-          })}
-        </ul>
-      </div>
+      <>
+        {company === 'TribalScale' ? <div className="print-margin"></div> : undefined}
+        <div className="resume-content-item" key={company}>
+          <h3>{company}</h3>
+          <h4>{title}</h4>
+          <p className="resume-date">{date} <span><FontAwesomeIcon className="location-icon" icon={faMapMarkerAlt} />{location}</span></p>
+          <ul>
+            {descriptions.map((desc, i) => {
+              return <li key={company+i}><p>{desc}</p></li>
+            })}
+          </ul>
+        </div>
+      </>
     ));
 
     return (
@@ -69,7 +72,8 @@ function App() {
               <p><b>React</b></p>
               <p>HTML · SASS</p>
               <br/>
-              <p><b>Typescript</b> · Sinon · Chai</p>
+              <p>Typescript · Sinon · Chai</p>
+              <p>Docker</p>
               <p>Alexa</p>
               <p>TDD · Agile</p>
             </div>

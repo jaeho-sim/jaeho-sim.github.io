@@ -6,7 +6,13 @@
       "location": "Toronto",
       "date": "Mar 21 - Dec 23",
       "descriptions": [
-
+        "Collaborated as a back-end cloud engineer to build an AI-powered scheduling assistant application",
+        "Developed robust RESTful API endpoints using Node and PostgreSQL, ensuring seamless integration with front-end applications",
+        "Leveraged Google Cloud Platform (GCP) to deploy, manage, and scale server infrastructure",
+        "Integrated Google and Outlook Calendar APIs for dynamic user schedule analysis, identifying the user's optimal times for an enhanced user experience",
+        "Utilized pub/sub architecture to implement post-processing methods, ensuring effective and streamlined data handling after API interactions",
+        "Implemented Docker to containerize each API service, transforming the architecture into microservices",
+        "Orchestrated the construction and maintenance of a user-friendly web portal using React, showcasing personalized available time slots"
       ]
     },
     {
@@ -15,11 +21,10 @@
       "location": "Denver",
       "date": "Mar 19 - Mar 20",
       "descriptions": [
-        "Joined the team to continue working on the Alexa Skill project that I've been participating in from my last company",
         "Developed Radio.com Alexa Skill using Node and Alexa SDK, which plays more than 300 radio stations to a million active users across the US",
         "Implemented user-specified features with the use of DynamoDB to let the users have more personalized experience",
-        "Built a scheduled AWS Lambda function with cron job that manipulates internal API to update The Skill's station catalog once a day",
-        "Maintained above 95% of coverage on test code using Sinon and Mocha"
+        "Built a scheduled AWS Lambda function that manipulates internal API to update The Skill's station catalog once a day",
+        "Collaborated closely with the AWS team to build and test a new beta version of Alexa skill development, ensuring cutting-edge features and optimal performance"
       ]
     },
     {
@@ -32,7 +37,6 @@
         "Developed data API endpoints that are being used on multiple platforms, built with Node/Express",
         "Contributed to the development of an authentication API that is used on multiple platforms, built with Node/Express, Postgres and AWS Cognito",
         "Built and improved two Alexa Skills from the scratch using AWS Lambda, DynamoDB and Alexa SDK",
-        "Created and maintained fully automated CI/CD pipelines for code deployment using Concourse",
         "Revamped an internal web application that manages weekly project allocations for employees, using React, Spring Boot and SASS",
         "Tweaked the marketing website using React, SASS and Contentful"
       ]
@@ -56,7 +60,7 @@
       "date": "Oct 15 - Jun 16",
       "descriptions": [
         "Developed web application platforms for clients from the scratch",
-        "Mainly involved in front-end work to create more than 50 pages in Angular 1, JSP and SASS",
+        "Led front-end development efforts, crafting over 50 pages using Angular 1, JSP and SASS",
         "Collaborated in building back-end implementations for database and computations using Spring and MySQL",
         "Designed and implemented to be compatible with different versions of mobile, tablets, and browsers"
       ]
