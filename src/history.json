@@ -6,13 +6,13 @@
       "location": "Toronto",
       "date": "Mar 21 - Dec 23",
       "descriptions": [
-        "Collaborated as a back-end cloud engineer to build an AI-powered scheduling assistant application",
-        "Developed robust RESTful API endpoints using Node and PostgreSQL, ensuring seamless integration with front-end applications",
-        "Leveraged Google Cloud Platform (GCP) to deploy, manage, and scale server infrastructure",
-        "Integrated Google and Outlook Calendar APIs for dynamic user schedule analysis, identifying the user's optimal times for an enhanced user experience",
-        "Utilized pub/sub architecture to implement post-processing methods, ensuring effective and streamlined data handling after API interactions",
-        "Implemented Docker to containerize each API service, transforming the architecture into microservices",
-        "Orchestrated the construction and maintenance of a user-friendly web portal using React, showcasing personalized available time slots"
+        "Collaborated on the development an AI-powered scheduling assistant application as a back-end cloud engineer.",
+        "Engineered resilient RESTful API endpoints using Node and PostgreSQL for seamless front-end integration.",
+        "Deployed, managed, and scaled server infrastructure on Google Cloud Platform (GCP) and Firebase.",
+        "Integrated Google and Outlook Calendar APIs to dynamically analyze user schedules, identifying optimal times for an enhanced user experience.",
+        "Implemented pub/sub architecture for effective post-processing of data after API interactions.",
+        "Utilized Docker to containerize API services, transforming the architecture into microservices.",
+        "Orchestrated the construction and maintenance of a user-friendly web portal using React, spotlighting personalized available time slots."
       ]
     },
     {
@@ -21,10 +21,10 @@
       "location": "Denver",
       "date": "Mar 19 - Mar 20",
       "descriptions": [
-        "Developed Radio.com Alexa Skill using Node and Alexa SDK, which plays more than 300 radio stations to a million active users across the US",
-        "Implemented user-specified features with the use of DynamoDB to let the users have more personalized experience",
-        "Built a scheduled AWS Lambda function that manipulates internal API to update The Skill's station catalog once a day",
-        "Collaborated closely with the AWS team to build and test a new beta version of Alexa skill development, ensuring cutting-edge features and optimal performance"
+        "Crafted Radio.com Alexa Skill using Node and Alexa SDK, serving over a million active users with over 300 radio stations across the US.",
+        "Implemented user-specified features with the use of DynamoDB for a personalized experience.",
+        "Built a scheduled AWS Lambda function updating the Skill's station catalog daily through internal API manipulation.",
+        "Collaborated closely with the AWS team to develop and test cutting-edge features for a new beta version of Alexa skill."
       ]
     },
     {
@@ -33,12 +33,12 @@
       "location": "Toronto",
       "date": "May 18 - Feb 19",
       "descriptions": [
-        "Participated in more than 5 different client-facing projects building both front-end and back-end web/IoT applications, by practicing Test-Driven Development",
-        "Developed data API endpoints that are being used on multiple platforms, built with Node/Express",
-        "Contributed to the development of an authentication API that is used on multiple platforms, built with Node/Express, Postgres and AWS Cognito",
-        "Built and improved two Alexa Skills from the scratch using AWS Lambda, DynamoDB and Alexa SDK",
-        "Revamped an internal web application that manages weekly project allocations for employees, using React, Spring Boot and SASS",
-        "Tweaked the marketing website using React, SASS and Contentful"
+        "Contributed to more than 5 client-facing projects, practicing Test-Driven Development (TDD) for web/IoT applications.",
+        "Developed data API endpoints using Node/Express and PostgreSQL to cater to diverse platforms utilized by various teams.",
+        "Contributed to an authentication API with AWS Cognito.",
+        "Built and enhanced two Alexa Skills from scratch using AWS Lambda, DynamoDB, and Alexa SDK.",
+        "Revamped an internal project allocation web application using React, Spring Boot, and SASS.",
+        "Tweaked the marketing website using React, SASS, and Contentful."
       ]
     },
     {
@@ -47,10 +47,10 @@
       "location": "Toronto",
       "date": "Jul 16 - Dec 17",
       "descriptions": [
-        "Contributed to the development of a web-based financial platform using Ruby on Rails, jQuery and React",
-        "Created and maintained marketing website with the consideration of SEO and conversion funnel to generate MQLs",
-        "Implemented Salesforce/Pardot into the website to leverage smoother transition between marketing and sales",
-        "Built custom coded email templates to send out newsletters to attract possible clients"
+        "Contributed to the development of a web-based financial platform using Ruby on Rails, jQuery, and React.",
+        "Created and maintained marketing website with the consideration of SEO and conversion funnel to generate MQLs.",
+        "Integrated Salesforce/Pardot into the website to leverage smoother transition between marketing and sales.",
+        "Developed custom-coded email templates for newsletters targeting potential clients."
       ]
     },
     {
@@ -59,10 +59,10 @@
       "location": "Toronto",
       "date": "Oct 15 - Jun 16",
       "descriptions": [
-        "Developed web application platforms for clients from the scratch",
-        "Led front-end development efforts, crafting over 50 pages using Angular 1, JSP and SASS",
-        "Collaborated in building back-end implementations for database and computations using Spring and MySQL",
-        "Designed and implemented to be compatible with different versions of mobile, tablets, and browsers"
+        "Developed web application platforms rom scratch.",
+        "Led front-end development efforts, creating over 50 pages using Angular 1, JSP, and SASS.",
+        "Collaborated on building back-end implementations for database and computations using Spring and MySQL.",
+        "Designed for compatibility with various devices and browsers."
       ]
     }
   ]
