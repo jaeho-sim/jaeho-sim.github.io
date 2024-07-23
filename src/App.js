@@ -7,12 +7,12 @@ import './App.scss';
 
 function App() {
   const renderHistory = () => {
-    const historyList = history.careers.map(({ company, title, location, date, descriptions }) => (
+    const historyList = history.careers.map(({ company, title, location, date, descriptions, note }) => (
       // <div className="print-margin"></div>
       <>
         {company === 'TribalScale' ? <div className="print-margin"></div> : undefined}
         <div className="resume-content-item" key={company}>
-          <h3>{company}</h3>
+          <h3>{company}</h3>{note ? <h5> ({note})</h5> : undefined}
           <h4>{title}</h4>
           <p className="resume-date">{date} <span><FontAwesomeIcon className="location-icon" icon={faMapMarkerAlt} />{location}</span></p>
           <ul>
@@ -65,15 +65,13 @@ function App() {
           <div className="resume-body-side">
             <div className="resume-content skills">
               <h2>Skills</h2>
-              <p><b>Node</b></p>
+              <p><b>Node · React</b></p>
               <p>PostgreSQL · NoSQL</p>
-              <p>GCP · AWS</p>
-              <br/>
-              <p><b>React</b></p>
+              <p>AWS · GCP</p>
               <p>HTML · SASS</p>
-              <br/>
               <p>Typescript · Sinon · Chai</p>
               <p>Docker</p>
+              <p>Serverless</p>
               <p>Alexa</p>
               <p>TDD · Agile</p>
             </div>
