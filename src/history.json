@@ -6,7 +6,7 @@
       "location": "Toronto",
       "date": "Mar 21 - Mar 24",
       "descriptions": [
-        "Collaborated on the development of an AI-powered scheduling assistant application as a back-end cloud engineer.",
+        "Collaborated on the development of an AI-powered scheduling assistant SaaS application as a full-stack engineer.",
         "Engineered resilient RESTful API endpoints using Node and PostgreSQL for seamless front-end integration.",
         "Deployed, managed, and scaled server infrastructure on Google Cloud Platform (GCP) and Firebase.",
         "Integrated Google and Outlook Calendar APIs to dynamically analyze user schedules, identifying optimal times for an enhanced user experience.",
@@ -35,7 +35,7 @@
       "location": "Toronto",
       "date": "May 18 - Feb 19",
       "descriptions": [
-        "Contributed to more than 5 client-facing projects, practicing Test-Driven Development (TDD) for web/IoT applications.",
+        "Contributed to more than 5 client-facing projects as a full-stack engineer, practicing Test-Driven Development (TDD) for web/IoT applications.",
         "Developed data API endpoints using Node/Express and PostgreSQL to cater to diverse platforms utilized by various teams.",
         "Contributed to an authentication API with AWS Cognito.",
         "Built and enhanced two Alexa Skills from scratch using AWS Lambda, DynamoDB, and the Alexa SDK.",
